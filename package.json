@@ -7,7 +7,7 @@
 	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "MAJORversion2.MINORversion10.PATCHversion2"
+		"moment": "MAJOR.MINOR.PATCH"
 	},
 	"main": "server.js",
 	"scripts": {
